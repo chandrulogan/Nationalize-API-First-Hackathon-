@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  padding: 0;
+  min-width: 100%;
+  overflow: hidden;
+  background-image: linear-gradient(to left,
+   #000000,
+   #1c1118,
+   #2b1d30,
+   #2e2d4d,
+   #19406b);
+}
+
+.PeoplePortal{
+  color: rgb(255, 255, 255);
+  font-size: 200px;
+  display: flex;
+  justify-content : center
+}
